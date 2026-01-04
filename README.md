@@ -2,11 +2,6 @@
 
 *A Retrieval-Augmented Generation app that understands PDFs, Images, and Audio.*
 
-![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?logo=langchain\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit\&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?logo=facebook\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python\&logoColor=ffdd54)
-
 ---
 
 ## Overview
