@@ -23,6 +23,10 @@ It combines **data extraction**, **semantic retrieval**, and **context-aware gen
 * **Interactive UI:** Built with **Streamlit** for an intuitive chat interface.
 
 ---
+<img width="1611" height="874" alt="Screenshot 2026-01-04 152530" src="https://github.com/user-attachments/assets/8aae7efb-5f3f-43c7-aba1-085a0c22f875" />
+
+<img width="1193" height="872" alt="image" src="https://github.com/user-attachments/assets/3caea385-066f-4eb3-97d2-709562c6aa1f" />
+
 
 ## Tech Stack
 
