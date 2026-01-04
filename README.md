@@ -51,7 +51,7 @@ It combines **data extraction**, **semantic retrieval**, and **context-aware gen
 
 ```bash
 # Clone the repository
-git clone https://github.com/AryakumarMishra/Multimodal-RAG-Chatbot
+git clone https://github.com/drhythmos/MARS
 cd multimodal-rag
 
 # Install dependencies
